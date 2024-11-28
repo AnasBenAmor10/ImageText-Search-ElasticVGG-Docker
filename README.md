@@ -5,6 +5,7 @@ This project is a high-performance **image and text search engine** leveraging *
 
 ---
 
+
 ## 📜 Table of Contents
 
 - [📂 Project Architecture](#-project-architecture)
